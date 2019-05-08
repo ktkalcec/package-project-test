@@ -1,0 +1,14 @@
+{
+    "name": "ktkalcec/package-project-test",
+    "description": "Testing packaging library with composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KristijanTkalčec",
+            "email": "kristijan.tkalcec@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
