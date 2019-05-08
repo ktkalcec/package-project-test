@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6112a07c3131c874e1404318159e1a46",
+    "packages": [
+        {
+            "name": "ktkalcec/package-library-test",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ktkalcec/package-library-test.git",
+                "reference": "80c13fc053947a0483bad04ffb668272786dcdd6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ktkalcec/package-library-test/zipball/80c13fc053947a0483bad04ffb668272786dcdd6",
+                "reference": "80c13fc053947a0483bad04ffb668272786dcdd6",
+                "shasum": ""
+            },
+            "type": "library",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "KristijanTkalčec",
+                    "email": "kristijan.tkalcec@gmail.com"
+                }
+            ],
+            "description": "Testing composer packeting",
+            "support": {
+                "source": "https://github.com/ktkalcec/package-library-test/tree/master",
+                "issues": "https://github.com/ktkalcec/package-library-test/issues"
+            },
+            "time": "2019-05-08T14:12:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

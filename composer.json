@@ -10,5 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:ktkalcec/package-library-test.git"
+        }
+    ],
+    "require": {
+        "ktkalcec/package-library-test": "*"
+    }
 }
